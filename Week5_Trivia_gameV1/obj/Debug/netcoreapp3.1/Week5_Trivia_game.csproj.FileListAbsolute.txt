@@ -1,0 +1,28 @@
+C:\School\CCC Fall 2021\Week5_Trivia_game\bin\Debug\netcoreapp3.1\Week5_Trivia_game.exe
+C:\School\CCC Fall 2021\Week5_Trivia_game\bin\Debug\netcoreapp3.1\Week5_Trivia_game.deps.json
+C:\School\CCC Fall 2021\Week5_Trivia_game\bin\Debug\netcoreapp3.1\Week5_Trivia_game.runtimeconfig.json
+C:\School\CCC Fall 2021\Week5_Trivia_game\bin\Debug\netcoreapp3.1\Week5_Trivia_game.runtimeconfig.dev.json
+C:\School\CCC Fall 2021\Week5_Trivia_game\bin\Debug\netcoreapp3.1\Week5_Trivia_game.dll
+C:\School\CCC Fall 2021\Week5_Trivia_game\bin\Debug\netcoreapp3.1\Week5_Trivia_game.pdb
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.csproj.AssemblyReference.cache
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.AssemblyInfoInputs.cache
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.AssemblyInfo.cs
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.csproj.CoreCompileInputs.cache
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.dll
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.pdb
+C:\School\CCC Fall 2021\Week5_Trivia_game\obj\Debug\netcoreapp3.1\Week5_Trivia_game.genruntimeconfig.cache
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.csproj.AssemblyReference.cache
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.AssemblyInfoInputs.cache
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.AssemblyInfo.cs
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.csproj.CoreCompileInputs.cache
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.dll
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.pdb
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\bin\Debug\netcoreapp3.1\Week5_Trivia_game.exe
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\bin\Debug\netcoreapp3.1\Week5_Trivia_game.deps.json
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\bin\Debug\netcoreapp3.1\Week5_Trivia_game.runtimeconfig.json
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\bin\Debug\netcoreapp3.1\Week5_Trivia_game.runtimeconfig.dev.json
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\bin\Debug\netcoreapp3.1\Week5_Trivia_game.dll
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\bin\Debug\netcoreapp3.1\Week5_Trivia_game.pdb
+C:\Users\Omar Sierra\Downloads\Week5_Trivia_gameV1\obj\Debug\netcoreapp3.1\Week5_Trivia_game.genruntimeconfig.cache
